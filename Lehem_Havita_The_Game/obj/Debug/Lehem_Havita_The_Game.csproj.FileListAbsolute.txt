@@ -1,0 +1,172 @@
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\וזנה\source\repos\Lheme_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\וזנה\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Score_view.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.dll
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.xml
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Admin_Password.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.GameOver.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.HelpForm.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.InsertNameForm.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.ScoreHistoryForm.resources
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CopyComplete
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\itay3\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.dll
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.xml
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Admin_Password.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.GameOver.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.HelpForm.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.InsertNameForm.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.ScoreHistoryForm.resources
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\Administrator\Desktop\Final_LehemHavita\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.dll
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.xml
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Admin_Password.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.GameOver.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.HelpForm.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.InsertNameForm.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.ScoreHistoryForm.resources
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CopyComplete
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\assaf\source\repos\Lehem_Havita_The_Game-20230830T082530Z-001\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.dll
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.xml
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Admin_Password.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.GameOver.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.HelpForm.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.InsertNameForm.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.ScoreHistoryForm.resources
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CopyComplete
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\assaf\source\repos\@@@Final Noder\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.dll
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.xml
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Admin_Password.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.GameOver.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.HelpForm.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.InsertNameForm.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.ScoreHistoryForm.resources
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\Administrator\source\repos\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe.config
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.exe
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Lehem_Havita_The_Game.pdb
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.dll
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.dll
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.xml
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.AccessControl.xml
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.AssemblyReference.cache
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.g.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Admin_Password.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.GameOver.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.HelpForm.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Game.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.InsertNameForm.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Main_Menu.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.Properties.Resources.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.ScoreHistoryForm.resources
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.GenerateResource.cache
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.csproj.CopyComplete
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.exe
+C:\Users\itay3\Desktop\Lehem_Havita_The_Game\Lehem_Havita_The_Game\obj\Debug\Lehem_Havita_The_Game.pdb
